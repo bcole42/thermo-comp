@@ -1,0 +1,12 @@
+# Quantum ESPRESSO Outputs & Scratch Files
+*.out
+*.wfc
+*.rho
+*.charge
+*.pot
+*.save/
+tmp/
+*.xml
+# SSSP files
+*.upf
+cutoffs.json
