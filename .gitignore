@@ -1,4 +1,7 @@
 # Quantum ESPRESSO Outputs & Scratch Files
+qe/
+phonons/
+*.json
 *.out
 *.wfc
 *.rho
@@ -10,3 +13,5 @@ tmp/
 # SSSP files
 *.upf
 cutoffs.json
+# Python 
+__pycache__/
